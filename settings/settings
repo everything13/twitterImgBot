@@ -1,0 +1,40 @@
+# Replace where appropriate with your own settings.
+
+[Twitter]
+api_key = vkCxMUCYnWGiGxBBww0lgH2pJ
+secret_key = FRLO2bSt24dvKPoja4XyQILwqJ0yHEDVnO5kBoRWiZ6bKjJyaC
+token = 1397161614894272513-5F4jgHYy8l6nVegzNoMxMA544k9NU6
+secret_token = cFc1WaPBozU3z8JenJTjYYKv5l9vboTJm9s7Lcy7ulzug
+
+[App]
+image_folder = /home/et13/twitterImgBot/AllSelfies/
+execution_chance = 0.5
+allow_repeat_after = 1600
+log_file = /home/et13/twitterImgBot/logs/log
+bot_account = @loonaselcabot
+master_account = @kimlip4eva
+dont_tweet_file = /home/et13/twitterImgBot/logs/banned
+
+[Orders]
+#caps agnostic
+ban_command = delete
+request_command = hey @loonaselcabot
+time_tolerance = 5
+
+[Texts]
+# Respect indentation: it is TWO spaces
+# tweet_post_number is either True or False, nothing else
+# tweet this text doesn't requiere "" or '', just write the text
+tweet_post_number = False
+tweet_this_text =  #LOONA @loonatheworld
+
+request_answers = Here's a Loona selca for you!
+  Here you go!
+  Loona loves you!
+  Have a nice day!
+  STAN LOONA!!
+request_to_third_answers = You just got a nice gift from 
+  Especially for you! From 
+  Here's a Loona Selca to bless your feed! From 
+  I was asked to send you this BEAUTIFUL selca by
+
