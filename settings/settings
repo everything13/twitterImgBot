@@ -1,10 +1,10 @@
 # Replace where appropriate with your own settings.
 
 [Twitter]
-api_key = vkCxMUCYnWGiGxBBww0l
-secret_key = FRLO2bSt24dvKPoja4XyQILwqJ0yHEDVnO5kBoRWiZ6
-token = 1397161614894272513-5F4jgHYy8l6nVegzNoMxMA544
-secret_token = cFc1WaPBozU3z8JenJTjYYKv5l9vboTJm9s7Lcy7
+api_key = 
+secret_key = 
+token = 
+secret_token = 
 
 [App]
 image_folder = /home/et13/twitterImgBot/AllSelfies/
