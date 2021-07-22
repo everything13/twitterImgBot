@@ -21,7 +21,7 @@ bot_account = app_config['bot_account']
 log_file = app_config['log_file']
 banned_file = app_config['dont_tweet_file']
 tolerance = int(app_config['allow_repeat_after'])
-chance = int(app_config['execution_chance'])
+chance = float(app_config['execution_chance'])
 
 orders_config = config['Orders']
 ban_command = orders_config['ban_command']
