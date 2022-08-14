@@ -124,7 +124,7 @@ def orders():
 
 
 def get_post_number_from_log(log_file):
-    """Tries to get a post number from the log. If it can't, it means
+    """Tries to get post number from the log. If it can't, it means
     it must be the first. Returns the number as a string.
     """
     try:
